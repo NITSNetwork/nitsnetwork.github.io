@@ -2398,7 +2398,7 @@ input, select, textarea {
 			}
 
 			table.default thead {
-				background-color: #555555;
+				background-color: #002e65;
 				background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 				background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 				background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
@@ -2463,7 +2463,7 @@ input, select, textarea {
 		input[type="button"].alt,
 		button.alt,
 		.button.alt {
-			background-color: #555555;
+			background-color: #002e65;
 			color: #fff;
 		}
 
@@ -2472,7 +2472,7 @@ input, select, textarea {
 			input[type="button"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background-color: #626262;
+				background-color: #002e65;
 			}
 
 			input[type="submit"].alt:active,
@@ -2480,7 +2480,7 @@ input, select, textarea {
 			input[type="button"].alt:active,
 			button.alt:active,
 			.button.alt:active {
-				background-color: #484848;
+				background-color: #002e65;
 			}
 
 		input[type="submit"].icon:before,
@@ -2562,7 +2562,7 @@ input, select, textarea {
 
 	#nav {
 		cursor: default;
-		background-color: #333;
+		background-color: #002e65;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
@@ -2649,13 +2649,13 @@ input, select, textarea {
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
 		background-image: linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
-		background-color: #333;
+		background-color: #002e65;
 		border-radius: 5px;
 		color: #fff;
 		min-width: 10em;
 		padding: 1em 0;
 		text-align: center;
-		box-shadow: 0 1em 1em 0 rgba(0, 0, 0, 0.5);
+		box-shadow: 0 1em 1em 0 rgba(0, 46, 101, 0.5);
 		list-style: none;
 	}
 
@@ -2699,7 +2699,7 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			background: #002e65;
-			background: rgba(27, 27, 27, 0.75);
+			background: rgba(0, 46, 101, 0.75);
 			color: #fff;
 			padding: 1.5em 0;
 		}
@@ -3137,7 +3137,7 @@ input, select, textarea {
 
 			#navPanel {
 				background-color: #002e65;
-				box-shadow: inset -1px 0 3px 0 rgba(0, 0, 0, 0.5);
+				box-shadow: inset -1px 0 3px 0 rgba(0, 46, 101, 0.5);
 				background-image: -moz-linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15)), url("images/bg01.png");
 				background-image: -webkit-linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15)), url("images/bg01.png");
 				background-image: -ms-linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15)), url("images/bg01.png");
