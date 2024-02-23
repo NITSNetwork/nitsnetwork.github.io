@@ -107,7 +107,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #474747;
+		color: #002e65;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
@@ -2684,8 +2684,8 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background-image: url("../../images/stadscampus.png");
-		background-position: top;
+		background-image: url("../../images/STD.jpg");
+		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
 		height: auto;
